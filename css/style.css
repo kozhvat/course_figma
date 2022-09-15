@@ -609,7 +609,7 @@ img {
 /* intro start */
 .intro {
   min-height: 100vh;
-  background: url(/img/intro-bg.jpg);
+  background: url(https://kozhvat.github.io/course_figma/img/intro-bg.jpg);
   background-size: cover;
   padding-top: 263px;
   padding-bottom: 372px;
@@ -643,7 +643,7 @@ img {
 }
 
 .search_form_field {
-  background: transparent url(/img/svg/circle-icon.svg) no-repeat left 6px;
+  background: transparent url(https://kozhvat.github.io/course_figma/img/svg/circle-icon.svg) no-repeat left 6px;
   background-size: 20px;
   border: 0;
   border-bottom: 2px solid #bfc0c5;
@@ -744,7 +744,7 @@ img {
 .benefits_card_more {
   display: inline-block;
   padding-right: 59px;
-  background: url(../img/svg/arrow-right-icon.svg) no-repeat 95% center;
+  background: url(https://kozhvat.github.io/course_figma/img/svg/arrow-right-icon.svg) no-repeat 95% center;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -754,7 +754,7 @@ img {
 
 .benefits_card_more:hover,
 .benefits_card_more:focus {
-  background: url(../img/svg/arrow-right-icon.svg) no-repeat right center;
+  background: url(https://kozhvat.github.io/course_figma/img/svg/arrow-right-icon.svg) no-repeat right center;
   transition: 0.2s all;
 }
 /* benefits end */
@@ -777,7 +777,7 @@ img {
   font-size: 16px;
   color: #006dfe;
   text-decoration: none;
-  background: url(../img/svg/arrow-right-icon.svg) no-repeat right center;
+  background: url(https://kozhvat.github.io/course_figma/img/svg/arrow-right-icon.svg) no-repeat right center;
   padding-right: 59px;
 }
 .places_view_all:hover,
@@ -875,7 +875,7 @@ img {
 .tour_more {
   display: inline-block;
   padding-right: 59px;
-  background: url(../img/svg/arrow-right-icon.svg) no-repeat 95% center;
+  background: url(https://kozhvat.github.io/course_figma/img/svg/arrow-right-icon.svg) no-repeat 95% center;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -884,7 +884,7 @@ img {
 }
 .tour_more:hover,
 .tour_more:focus {
-  background: url(../img/svg/arrow-right-icon.svg) no-repeat right center;
+  background: url(https://kozhvat.github.io/course_figma/img/svg/arrow-right-icon.svg) no-repeat right center;
   transition: 0.2s all;
 }
 /* tours end */
@@ -938,7 +938,7 @@ img {
   line-height: 24px;
   color: white;
   padding-right: 20px;
-  background: url(../img/svg/heart-icon.svg) no-repeat right;
+  background: url(https://kozhvat.github.io/course_figma/img/svg/heart-icon.svg) no-repeat right;
   margin-right: 14px;
 }
 .top_card_likes_value {
@@ -949,7 +949,7 @@ img {
   line-height: 24px;
   color: white;
   padding-right: 23px;
-  background: url(../img/svg/comment-icon.svg) no-repeat right;
+  background: url(https://kozhvat.github.io/course_figma/img/svg/comment-icon.svg) no-repeat right;
 }
 .top_card_comments_value {
 }
@@ -1176,7 +1176,7 @@ img {
     width: 100%;
     margin-right: 0;
     padding-bottom: 12px;
-    background: transparent url(/img/svg/circle-icon.svg) no-repeat left 2px;
+    background: transparent url(https://kozhvat.github.io/course_figma/img/svg/circle-icon.svg) no-repeat left 2px;
   }
   .search_form_field::placeholder {
     font-size: 16px;
